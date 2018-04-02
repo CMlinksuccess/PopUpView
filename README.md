@@ -6,7 +6,7 @@
 
 <br>
 图1.<br>
- https://github.com/CMlinksuccess/PopUpView/tu1.png
+https://github.com/CMlinksuccess/PopUpView/blob/master/raw/tu1.png
  <br>
  图2.<br>
-  https://github.com/CMlinksuccess/PopUpView/tu2.png
+https://github.com/CMlinksuccess/PopUpView/blob/master/raw/tu2.png
