@@ -6,7 +6,7 @@
 
 <br>
 图1.<br>
-![tu1](https://github.com/CMlinksuccess/PopUpView/blob/master/raw/tu1.png)
+https://github.com/CMlinksuccess/PopUpView/blob/master/raw/tu1.png
  <br>
  图2.<br>
-![tu2](https://github.com/CMlinksuccess/PopUpView/blob/master/raw/tu2.png)
+https://github.com/CMlinksuccess/PopUpView/blob/master/raw/tu2.png
