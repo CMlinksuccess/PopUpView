@@ -7,7 +7,7 @@
 <br>
 图1.<br>
 
-![tu1](/blob/master/raw/tu1.png "界面")
+![tu1](https://github.com/CMlinksuccess/PopUpView/blob/master/raw/tu1.png "界面")
 
  <br>
  图2.<br>
